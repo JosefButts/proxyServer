@@ -1,0 +1,22 @@
+{
+  "name": "proxyserver",
+  "version": "1.0.0",
+  "description": "git@github.com:JosefButts/proxyServer.git",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http-proxy-middleware": "^0.19.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JosefButts/proxyServer.git"
+  },
+  "author": "Josef Butts",
+  "license": ""
+}

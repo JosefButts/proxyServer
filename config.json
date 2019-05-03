@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "route": "/app1",
+      "address": "http://localhost3000"
+    },
+    {
+      "route": "/app2",
+      "address": "http://localhost:3002"
+    },
+    {
+      "route" : "/login",
+      "address": "http://localhost:8080"
+    }
+  ],
+  "port" : 8000,
+  "secret": "INSERT_SECRET_HERE",
+  "database": "INSERT_CONNECTION_STRING_HERE"
+}
